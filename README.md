@@ -10,29 +10,35 @@ This Repository **Dotfiles** contain my personal config files. Here you'll find 
 
 Check out my YouTube Channel: [nyxb](https://www.youtube.com/@nyxb0).
 
-## Terminal and Application Icons with Nerd-Fonts
+## ⌨️ Terminal and Application Icons with Nerd-Fonts
+
 
 To display icons in terminal or applications Fonts, I'm using [Nerd-Fonts](https://www.nerdfonts.com). I'm currently using the **Hack Nerd Font Mono** in terminal applications, and **Hack Nerd Font** in applications.
 
-## Contribution
+## 🤝 Contribution
 
 If you’d like to contribute to this project, reach out to me on social media or [Discord](https://chat/nyxb.zip), or create a pull request for the necessary changes.
 
-## Files
+## 📂 Files
 
 - [`.zshrc`](./.zshrc) - My ZSH config file
 - [`.zsh`](./.zsh) - My ZSH config files
 - [`.config`](./.config) - My config files for terminals and applications
 - [`.warp`](./.warp) - My warp files for [warp](https://www.warp.dev)
 
-### Check Also
+### 🔎 Check Also
 
 - [Dotfiles](https://github.com/nyxb/dotfiles) - My personal configuration files on MacOS
 - [nyxb/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings
 - [nyxb/eslint-config](https://github.com/nyxb/eslint-config) - My ESLint config
 
-## Support me
+## 🙏 Support me
 
 [Becoming a GitHub Sponsor](https://github.com/sponsors/nyxb) will support my mission to create free, high-quality content for tech enthusiasts and IT professionals.
 
 ***Help me to create something that matters to people!***
+
+
+## 📜 LICENSE
+
+[MIT](./LICENSE) License © 2023 [Dennis Ollhoff](https://github.com/nyxb) made with 💚
