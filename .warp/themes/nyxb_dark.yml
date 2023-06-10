@@ -1,0 +1,30 @@
+accent: '#14F195' # Accent color for UI elements
+background: '#121212' # Terminal background color
+details: darker # Whether the theme is lighter or darker.
+foreground: '#f1f1f1' # The foreground color.
+
+background_image:
+  # the path is relative to ~/.warp/themes/
+  # the full path to the picture is: ~/.warp/themes/warp.jpg
+  path: warp_bg.jpg
+  # the opacity value is required and can range from 0-100
+  opacity: 40
+terminal_colors: # Ansi escape colors.
+  bright:
+    black: '#666666'
+    blue: '#5c78ff'
+    cyan: '#00FFFF'
+    green: '#14F195'
+    magenta: '#14F195'
+    red: '#9945FF'
+    white: '#ffffff'
+    yellow: '#657b83'
+  normal:
+    black: '#121212'
+    blue: '#14F195'
+    cyan: '#00FFFF'
+    green: '#14F195'
+    magenta: '#14F195'
+    red: '#9945FF'
+    white: '#14F195'
+    yellow: '#3d2aff'
