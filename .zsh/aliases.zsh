@@ -5,7 +5,7 @@ alias vsi="code-insiders"
 alias oc="opencommit"
 alias cd2="cd ../../"
 alias n="nyxr"
-alias vs="code"
+alias vs="code ."
 
 # mac OS shortcuts
 # alias code="open -a 'Visual Studio Code'"
