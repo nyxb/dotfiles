@@ -34,7 +34,7 @@ If you’d like to contribute to this project, reach out to me on social media o
 
 ## 🙏 Support me
 
-[Becoming a GitHub Sponsor](https://github.com/sponsors/nyxb) will support my mission to create free, high-quality content for tech enthusiasts and IT professionals.
+[Becoming a GitHub Sponsor](https://nyxb.gives) will support my mission to create free, high-quality content for tech enthusiasts and IT professionals.
 
 ***Help me to create something that matters to people!***
 
